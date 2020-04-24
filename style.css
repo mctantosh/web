@@ -1,0 +1,12 @@
+.header {
+border: 1px solid #000;
+width: 100%;
+background-color: red;
+    
+}
+
+
+.header wrapper {
+width: 1000px;
+border: 1px solid #000;
+}
